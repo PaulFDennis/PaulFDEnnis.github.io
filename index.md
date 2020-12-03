@@ -1,8 +1,8 @@
-## Portfolio
+## MIRA HR-2000
 
 ---
 
-### MIRA HR-2000 Ion Optics
+### Ion Optics
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
