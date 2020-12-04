@@ -8,7 +8,7 @@
 <img src="images/double_focusing_condition.jpg?raw=true"/>
 
 ---
-[MIRA-HR2000 engineering design](/pdf/sample_presentation.pdf)
+[MIRA HR-2000 engineering design](/pdf/sample_presentation.pdf)
 <img src="images/MIRA_HR2000_concept.jpg?raw=true"/>
 
 ---
