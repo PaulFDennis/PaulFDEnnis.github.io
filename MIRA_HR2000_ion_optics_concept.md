@@ -5,39 +5,39 @@
 
 MIRA HR-2000 is a high mass resolution mass spectrometer for stable isotope
 measurements and based on the existing MIRA instrument. The reason for designing
-a new high mass resolution instrument is the need to resolve the key
+a new high mass resolution instrument is because we want to resolve the key
 contaminants in clumped isotope analysis of CO$$_2$$ gas. Notably, at mass 47 we
 observe the principal contaminants to occur at a lower mass and with a mass
-difference of less than 1 in 1600. This suggests that the species
+difference of less than 1 in 1600. This suggests that chloro-carbon species such as
 $$^{12}$$C$$^{35}$$Cl are likely to be important, rather than hydrocarbons which
-we expect to occur on the high mass side of the m/z = 47 peak. To fully resolve
+would occur on the high mass side of the m/z = 47 peak. To resolve completely
 $$^{12}$$C$$^{35}$$Cl from $$^{13}$$C$$^{18}$$O$$^{16}$$O requires a mass
-resolution of \>1350. We are aiming for an instrument that can operate with a
+resolution of >1350. We are aiming for an instrument that can operate with a
 resolution in excess of 2000.
 
 Previously, we have demonstrated that MIRA currently has a potential resolution
-of approximately 1400 when operating under optimal conditions. The limitation to
-further increase in the resolution is the energy dispersion associated with the
+of approximately 1400 when operating under optimal conditions. The limitations to
+further increases in the resolution are the energy dispersion associated with the
 Nier type ion source (typically 4 to 5 eV) and the second order geometric
 aberrations due to the beam divergence from the source - the so called
-$$\alpha$$ angle. A first approach, in theory, would be to minimise the
+$$\alpha$$ angle. A first approach could be to minimise the
 geometric aberrations by limiting the beam divergence, $$\alpha$$ from the ion
-source i.e. effectively reducing the source aperture. However, this comes with a
+source. The aberrations are proportional to $$\alpha^2$$. This effectively reduces the source aperture and comes with a
 loss of sensitivity. This is analogous to the operation of a camera lens where
 the sharpest images are obtained with the smallest aperture but the amount of
 light collected is restricted. Increasing the aperture to allow in more light
 sees a reduction in the sharpness of the image.
 
-A second approach is to reconfigure MIRA as a double focusing instrument using
-an electrostatic analyser (esa) between the source and magnet. Double focussing
-instruments focus with respect to energy and momentum. The energy dispersion of
+A second approach is to reconfigure the single focusing MIRA as a double focusing instrument using
+an electrostatic analyser (esa) between the source and magnet. Double focusing
+instruments focus with respect to both energy and momentum whereas the single focusing instrumet focuses with respect to momentum alone. The energy dispersion of
 the esa is equal, but opposite in sign to that of the magnet. Thus the two
-cancel each other out. Similarly, with careful selection of the esa parameters
+cancel each other out. Similarly, with careful selection of the esa geometry
 the second order geometric aberrations are the same magnitude but in the
 opposite direction as for the magnet and cancel.
 
 The concept for the MIRA HR-2000 instrument is based on the theoretical
-treatment of double focusing instruments of Johnson and Nier (1953) - Angular
+treatment of double focusing instruments given by Johnson and Nier (1953) - Angular
 aberrations in sector shaped electromagnetic lenses for focusing beams of
 charged particles, Physical Review, 91, 10-17. Here we summarise the key aspects
 of this paper in relation to designing an esa for the existing MIRA instrument.
