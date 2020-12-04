@@ -18,33 +18,44 @@ $$
 M_m \cdot D_e + D_m = 0
 $$			
 
-$M_m \cdot L_e + L_m = 0$	
+$$
+M_m \cdot L_e + L_m = 0
+$$	
 
 where *M* represents the magnification of the magnet, *D* represents the energy (or velocity dispersion) and L represents the second-order geometric aberrations. The subscripts *e* and *m* represent the esa and magnet respectively.
 
 For the MIRA magnet *M<sub>m</sub>* = -1. Thus we can write equations 1 and 2 as:
 
-$D_e = D_m$									
+$$
+D_e = D_m
+$$									
 
-$L_e = L_m$	
+$$L_e = L_m
+$$	
 
 *(i) Energy (velocity) focusing*
 
 The velocity dispersion of the MIRA magnet is given by:
 
-$D_m = 4 \cdot r_m \cdot \beta$	
+$$
+D_m = 4 \cdot r_m \cdot \beta
+$$	
 
 This is equation 35 of Johnson and Nier (1953), for a z value of 1 (symmetric analyser where the object and image distances are equal) and multiplied by a factor 2 to account for the extended geometry of the MIRA magnet in which the pole faces are rotated with respect to the normal of the optic axis (Wollnik, 1983).
 
 The velocity dispersion of the esa is given by (Johnson and Nier, eqn. 36):
 
-$D_e = 2 \cdot r_e \cdot \beta$
+$$
+D_e = 2 \cdot r_e \cdot \beta
+$$
 
 Again this equation describes the dispersion of a symmetric esa in which the object and image distances are equal. 
 
 Equating equations (5) and (6)  we find for velocity focussing:
 
-$r_e = 2 \cdot r_m$
+$$
+r_e = 2 \cdot r_m
+$$
 
 The radius of the electrostatic analyser is two times that of the radius of the extended geometry magnet. The MIRA magnet has a radius of 250 mm, thus the esa radius will be 500 mm.
 
@@ -52,19 +63,26 @@ The radius of the electrostatic analyser is two times that of the radius of the 
 
 Nier and Johnson (1953) give the second-order aberrations for a symmetric magnet as:
 
-$L_m = -r_m \cdot \alpha^2$
+$$
+L_m = -r_m \cdot \alpha^2
+$$
 
 where *α* is the beam divergence. This is for a normal geometry magnet pole faces are normal to the optic axis. In extended geometry instruments we find (Brown et al., 1964):
 
-$L_m = -4 \cdot r_m \cdot \alpha^2$
+$$L_m = -4 \cdot r_m \cdot \alpha^2
+$$
 
 We can express equation (9) in terms of the esa radius using the relationship between rm and re (equation (7) for a velocity focussing instrument with an extended geometry magnet):
 
-$L_m = -2 \cdot r_e \cdot \alpha^2$
+$$
+L_m = -2 \cdot r_e \cdot \alpha^2
+$$
 
 For a symmetric esa the second-order geometry focusing is a function of the esa sector angle and is given by (Johnson and Nier,  eqn. 31):
 
-$L_e = - [\frac{9}{12} \cdot 2 \cdot csc^2 (\frac{\phi_e}{\sqrt 2} - \frac{2}{12})] \cdot r_e \cdot \alpha^2$
+$$
+L_e = - [\frac{9}{12} \cdot 2 \cdot csc^2 (\frac{\phi_e}{\sqrt 2} - \frac{2}{12})] \cdot r_e \cdot \alpha^2
+$$
 
 
 The solution to the simultaneous equations (10) and (11) gives the condition for second-order geometric focusing. This is illustrated in figure 1 in which *L<sub>m</sub>/r<sub>e</sub>.α*<sup>2</sup> and *L<sub>e</sub>/r<sub>e</sub>.α*<sup>2</sup> are plotted as a function of *Φ*, the esa sector angle.
