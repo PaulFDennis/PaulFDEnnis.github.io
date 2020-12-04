@@ -81,7 +81,7 @@ $$
 For a symmetric esa the second-order geometry focusing is a function of the esa sector angle and is given by (Johnson and Nier,  eqn. 31):
 
 $$
-L_e = - [\frac{9}{12} \cdot 2 \cdot csc^2 (\frac{\phi_e}{\sqrt 2} - \frac{2}{12})] \cdot r_e \cdot \alpha^2
+L_e = - \left[\frac{9}{12} \cdot 2 \cdot csc^2 \left(\frac{\phi_e}{\sqrt 2} - \frac{2}{12}\right)\right] \cdot r_e \cdot \alpha^2
 $$
 
 
