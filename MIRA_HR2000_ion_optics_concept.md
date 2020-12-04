@@ -93,6 +93,6 @@ The solution to the simultaneous equations (10) and (11) gives the condition for
 
 A solution is found for an esa sector angle of 79.6°.
 
-Conclusion
+### Conclusion
 
 Conditions for double focusing are met using the MIRA magnet and an esa with a sector angle of 79.6° and a radius of 500 mm.
