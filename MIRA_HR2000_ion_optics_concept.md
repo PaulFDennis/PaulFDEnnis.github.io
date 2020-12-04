@@ -147,7 +147,7 @@ second-order geometric focusing. This is illustrated in figure 1 in which
 *L*$$_m/r_m.α^2$$ and *L*$$_e/r_e.α^2$$ are plotted as a function of *Φ*, the
 esa sector angle.
 
-<img src="images/
+<img src="images/double_focusing_condition.jpg>
 
 A solution is found for an esa sector angle of 79.6°.
 
