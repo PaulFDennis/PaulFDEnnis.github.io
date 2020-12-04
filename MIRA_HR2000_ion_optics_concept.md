@@ -1,3 +1,5 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ## The ion optic concept of the MIRA-HR2000 instrument
 
 The aim is to design and build a high mass resolution mass spectrometer based on the existing MIRA instrument. The minimum mass resolution required to resolve the key contaminants for clumped isotope analysis is approximately 1600. Thus we are aiming for an instrument that can operate with a resolution in excess of 2000. 
