@@ -14,9 +14,9 @@ The design of double focusing instruments is covered by Johnson and Nier (1953) 
 
 The conditions for a combination of energy and second-order divergence focusing are described in detail in Johnson and Nier (1953). It is necessary to solve two simultaneous equations, the first being the energy (or velocity) focusing condition and the second the second-order divergence focusing condition:
 
-\begin{equation}
+$$
 M_m \cdot D_e + D_m = 0
-\end{equation}			
+$$			
 
 $$
 M_m \cdot L_e + L_m = 0
