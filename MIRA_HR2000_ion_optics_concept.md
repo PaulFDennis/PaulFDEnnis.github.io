@@ -157,10 +157,8 @@ The geometric conditions for double focusing are met using the MIRA magnet (250
 mm, 120$$^\circ$$ extended geometry) and an esa with a sector angle of 79.6° and
 a radius of 500 mm.
 
- 
 ### References
 
- 
 Brown, K. L., Belbeoch, R., & Bounin, P. (1964). First- and Second-Order
 Magnetic Optics Matrix Equations for the Midplane of Uniform-Field Wedge
 Magnets. Review of Scientific Instruments, 35(4), 481–485.
