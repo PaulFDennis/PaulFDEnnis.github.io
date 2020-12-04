@@ -147,7 +147,7 @@ second-order geometric focusing. This is illustrated in figure 1 in which
 *L*$$_m/r_m.α^2$$ and *L*$$_e/r_e.α^2$$ are plotted as a function of *Φ*, the
 esa sector angle.
 
-[image.pdf]
+<img src="images/
 
 A solution is found for an esa sector angle of 79.6°.
 
@@ -168,12 +168,8 @@ Magnetic Optics Matrix Equations for the Midplane of Uniform-Field Wedge
 Magnets. Review of Scientific Instruments, 35(4), 481–485.
 http://doi.org/10.1063/1.1718851
 
- 
-
 Johnson, E. G., & Nier, A. O. (1953). Angular Aberrations in Sector Shaped
 Electromagnetic Lenses for Focusing Beams of Charged Particles. Physical Review
 A., 91(1), 10-17.
-
- 
 
 Wollnik, H. (1987). Optics of Charged Particles. Academic Press. 293pp
