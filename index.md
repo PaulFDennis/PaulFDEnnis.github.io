@@ -8,11 +8,11 @@
 <img src="images/double_focusing_condition.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[MIRA-HR2000 engineering design](/pdf/sample_presentation.pdf)
 <img src="images/MIRA_HR2000_concept.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Characterising contamination](http://example.com/)
 <img src="images/MIRA_hiden.jpg?raw=true"/>
 
 ---
