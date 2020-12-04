@@ -42,8 +42,8 @@ aberrations in sector shaped electromagnetic lenses for focusing beams of
 charged particles, Physical Review, 91, 10-17. Here we summarise the key aspects
 of this paper in relation to designing an esa for the existing MIRA instrument.
 
-The MIRA magnet is an extended geometry design with a sector field of
-120$$^\circ$$ and a radius of 250mm giving an effective dispersion equivalent to
+The MIRA magnet is an extended geometry design with a radius of 250 mm and a 
+120$$^\circ$$ sector field giving an effective dispersion equivalent to
 that of a 500mm radius normal geometry magnetic sector. The magnet has a
 magnification in the x-y plane of -1
 
