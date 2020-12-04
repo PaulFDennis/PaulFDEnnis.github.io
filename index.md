@@ -4,7 +4,7 @@
 
 ### Ion Optics
 
-[Ion Optics Concept](/MIRA_HR2000_ion_optics_concept)
+[MIRA HR-2000 ion optics concept and geometry](/MIRA_HR2000_ion_optics_concept)
 <img src="images/double_focusing_condition.jpg?raw=true"/>
 
 ---
