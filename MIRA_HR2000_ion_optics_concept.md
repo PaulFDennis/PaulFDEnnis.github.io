@@ -30,7 +30,7 @@ sees a reduction in the sharpness of the image.
 
 A second approach is to reconfigure the single focusing MIRA as a double focusing instrument using
 an electrostatic analyser (esa) between the source and magnet. Double focusing
-instruments focus with respect to both energy and momentum whereas the single focusing instrumet focuses with respect to momentum alone. The energy dispersion of
+instruments focus with respect to both energy and momentum whereas the single focusing instrument focuses with respect to momentum alone. The energy dispersion of
 the esa is equal, but opposite in sign to that of the magnet. Thus the two
 cancel each other out. Similarly, with careful selection of the esa geometry
 the second order geometric aberrations are the same magnitude but in the
