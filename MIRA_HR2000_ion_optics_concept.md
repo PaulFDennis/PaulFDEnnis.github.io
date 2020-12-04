@@ -47,7 +47,7 @@ The MIRA magnet is an extended geometry design with a radius of 250 mm radius an
 that of a 500mm radius normal geometry magnetic sector. The magnet has a
 magnification in the x-y plane of -1
 
-### Conditions for Double focusing
+### Geometric conditions for double focusing
 
 The conditions for a combination of energy and second-order divergence focusing
 are described in detail in Johnson and Nier (1953). It is necessary to solve two
