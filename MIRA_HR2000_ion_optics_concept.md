@@ -20,9 +20,9 @@ of approximately 1400 when operating under optimal conditions. The limitations t
 further increases in the resolution are the energy dispersion associated with the
 Nier type ion source (typically 4 to 5 eV) and the second order geometric
 aberrations due to the beam divergence from the source - the so called
-$$\alpha$$ angle. A first approach could be to minimise the
-geometric aberrations by limiting the beam divergence, $$\alpha$$ from the ion
-source. The aberrations are proportional to $$\alpha^2$$. This effectively reduces the source aperture and comes with a
+$$\alpha$$ angle. These aberrations are proportional to $$\alpha^2$$. Thus, a first approach could be to minimise the
+geometric aberrations by limiting the beam divergence from the ion
+source. This reduces the source aperture and comes with a
 loss of sensitivity. This is analogous to the operation of a camera lens where
 the sharpest images are obtained with the smallest aperture but the amount of
 light collected is restricted. Increasing the aperture to allow in more light
