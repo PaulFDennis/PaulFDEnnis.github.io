@@ -8,6 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I am an isotope geochemist and geologist, interested in the application of novel isotope techniques for the detemination of (i) Earth surface palaeotemperatures, and (ii) fluid processes in the upper crust. 
   <br><br>
+  In this website I am trying to document the design, construction and performance of the MIRA stable isotope ratio mass spectrometer together.
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
