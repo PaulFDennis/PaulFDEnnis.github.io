@@ -119,9 +119,9 @@ $$
 L_m = -r_m \cdot \alpha^2
 $$
 
-where *α* is the beam divergence. This is for a normal geometry magnet pole
-faces are normal to the optic axis. In extended geometry instruments we find
-(Brown \*et al\*., 1964):
+where *α* is the beam divergence. This is for a standard magnet where the pole
+faces are oriented normal to the optic axis. In extended geometry instruments we find
+(Brown *et al*., 1964):
 
 $$
 L_m = -4 \cdot r_m \cdot \alpha^2
