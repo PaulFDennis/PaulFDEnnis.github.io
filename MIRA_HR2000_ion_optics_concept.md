@@ -150,30 +150,21 @@ esa sector angle.
 <img src="images/double_focusing_condition.jpg?raw=true"/>
 
 A solution is found for an esa sector angle of 79.6°.
+
 *(iii) Focal length*
 
- 
-
-Wollnik (1987) gives the focal length of a cylinder condenser electrostatic
+ Wollnik (1987) gives the focal length of a cylinder condenser electrostatic
 analyser as:
 
- 
-
-$$
+ $$
 l_1 = l_2 = \left(\frac{\rho_0}{\sqrt{2}}\right)cotan \left(\frac{\theta_E}{\sqrt{2}}\right)
 $$
 
- 
-
-For the asa geometry needed for double focusing in the MIRA-HR2000 instrument
+ For the asa geometry needed for double focusing in the MIRA-HR2000 instrument
 ($$\rho_0$$ = 500 mm, $$\theta_E$$ = 79.6$$^\circ$$ the focal length = 235.92
 mm.
 
- 
-
-
-
-### Conclusion
+ ### Conclusion
 
 The geometric conditions for double focusing are met using the MIRA magnet (250
 mm, 120$$^\circ$$ extended geometry) and an esa with a sector angle of 79.6° and
