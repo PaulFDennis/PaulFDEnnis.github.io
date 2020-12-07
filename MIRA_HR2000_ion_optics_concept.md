@@ -156,7 +156,7 @@ A solution is found for an esa sector angle of 79.6°.
  Wollnik (1987) gives the focal length of a cylinder condenser electrostatic
 analyser as:
 
- $$
+$$
 l_1 = l_2 = \left(\frac{\rho_0}{\sqrt{2}}\right)cotan \left(\frac{\theta_E}{\sqrt{2}}\right)
 $$
 
