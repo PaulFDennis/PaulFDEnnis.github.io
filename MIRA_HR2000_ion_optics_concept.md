@@ -160,8 +160,8 @@ analyser as:
 l_1 = l_2 = \left(\frac{\rho_0}{\sqrt{2}}\right)cotan \left(\frac{\theta_E}{\sqrt{2}}\right)
 $$
 
- For the asa geometry needed for double focusing in the MIRA-HR2000 instrument
-($$\rho_0$$ = 500 mm, $$\theta_E$$ = 79.6$$^\circ$$ the focal length = 235.92
+ For the esa geometry needed for double focusing in the MIRA-HR2000 instrument
+($$\rho_0$$ = 500 mm, $$\theta_E$$ = 79.6$$^\circ$$) the focal length is found to be 235.92
 mm.
 
  ### Conclusion
